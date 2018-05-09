@@ -1,5 +1,7 @@
 <?php
 
+require_once __DIR__ . '/helpers.php'; //helpers.php是自己编写的工具函数库文件
+
 /*
 |--------------------------------------------------------------------------
 | Create The Application
